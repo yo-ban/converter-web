@@ -22,8 +22,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@react-pdf/renderer": "^4.3.0",
-    "@resvg/resvg-js": "^2.6.2",
     "@types/marked": "^5.0.2",
     "marked": "^15.0.12",
     "next": "^15.3.4",

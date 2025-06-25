@@ -1,6 +1,6 @@
 # Convertly
 
-シンプルなファイル変換サービス。SVGを画像に、MarkdownをPDFに変換できます。
+シンプルなファイル変換ツール。SVGを画像に、MarkdownをPDFに変換できます。
 
 ## 機能
 
