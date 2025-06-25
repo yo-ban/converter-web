@@ -1,0 +1,1 @@
+export const markdownToPdfBuffer = jest.fn().mockResolvedValue(Buffer.from('mock-pdf-data'));

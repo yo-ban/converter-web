@@ -1,0 +1,17 @@
+{
+  "name": "Convertly - Simple File Converter",
+  "short_name": "Convertly",
+  "description": "Convert SVG to PNG/JPEG and Markdown to PDF easily and quickly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0095EB",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
